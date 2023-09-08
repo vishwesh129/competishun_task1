@@ -1,0 +1,13 @@
+.fixed-navbar {
+    position: fixed;
+    bottom: 0;
+    width: 30%;
+    padding: 10px;
+    border-radius: 30px;
+    margin-bottom: 20px;
+    background-color: #e8effece;
+  }
+
+  .no-hover-bg {
+    background-color: transparent !important;
+  }
